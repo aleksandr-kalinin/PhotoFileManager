@@ -2,8 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/PhotoFileManaget/Debug
-/PhotoFileManaget/PhotoFileManaget/Debug
+/PhotoFileManager/Debug
 /PhotoFileManager/PhotoFileManager/Debug
 /PhotoFileManager/PhotoFileManager/x64/Debug
 /PhotoFileManager/x64/Debug
